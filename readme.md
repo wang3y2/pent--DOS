@@ -1,4 +1,6 @@
 <h1>pentmenu汉化版</h1>
 
-根据@zhzy的博客https://freeerror.org/d/51 汉化
+root@kali:~#  cd 压缩包名/ 
+root@kali:~/pentmenu-master#  chmod 755 pentmenu 
+root@kali:~/pentmenu-master#  ./pentmenu
 
